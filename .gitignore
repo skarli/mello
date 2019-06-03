@@ -1,0 +1,3 @@
+alibaba.php 
+test/*
+!test/1.php
